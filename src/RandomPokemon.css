@@ -1,7 +1,7 @@
 .RandomPokemon {
-  border: 2px dashed rgb(170, 170, 170);
+  border: 2px dashed rgb(72, 171, 224);
   border-radius: 10px;
-  box-shadow: 0 0 10px 1px #48abe0;
+  box-shadow: 0 0 8px 2px rgb(162, 209, 235);
   width: 300px;
 
   margin: 40px;
